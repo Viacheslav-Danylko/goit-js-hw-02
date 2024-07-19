@@ -1,4 +1,4 @@
-# goit-js-hw-01
+# goit-js-hw-02
 _**This is my first js project.**_
 
 **task-1**
